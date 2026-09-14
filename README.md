@@ -60,14 +60,13 @@ const ngm = {
 
 <br/>
 
-
 <!-- ==================== METRICS ==================== -->
 
 ### `~` metrics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AMZNGM&hide_border=true&background=0D0D0D&stroke=FFDE02&ring=FFDE02&fire=FFDE02&currStreakLabel=FFDE02&sideLabels=F6F9FA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="streak" />
+<img width="98%" src="https://streak-stats.demolab.com/?user=AMZNGM&hide_border=true&background=0D0D0D&stroke=FFDE02&ring=FFDE02&fire=FFDE02&currStreakLabel=FFDE02&sideLabels=F6F9FA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="streak" />
 <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMZNGM&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFDE02&text_color=F6F9FA&langs_count=8" alt="languages" />
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AMZNGM&bg_color=0D0D0D&color=FFDE02&line=FFDE02&point=FFFFFF&area=true&area_color=FFDE02&hide_border=true&custom_title=contribution%20activity" alt="activity graph" /> -->
@@ -202,8 +201,6 @@ Interactive web experience — dynamic UI, scroll animation, gesture interaction
 - 🎙️ Currently recording the _Riyad as-Salihin_ and _White Nights_ audiobooks
 - 🧪 Living in Three.js, shaders, GSAP timelines — and Arch + Hyprland
 - 📫 **contact@amzngm.com**
-
-<br clear="both"/>
 
 <!-- ==================== STACK ==================== -->
 
