@@ -210,19 +210,38 @@ Interactive web experience — dynamic UI, scroll animation, gesture interaction
 
 <img src="https://skillicons.dev/icons?i=blender,figma,firebase,supabase,vercel,cloudflare,git,github&theme=dark" alt="services" />
 
-<sub>
-<b>Animation</b> GSAP · motion/react · Lenis · Locomotive Scroll · Swapy &nbsp;·&nbsp;
-<b>3D</b> Three.js · React Three Fiber · Drei &nbsp;·&nbsp;
-<b>Web audio</b> use-sound · Howler.js
-</sub>
+**motion & 3D**
+
+<img src="https://img.shields.io/badge/GSAP-0D0D0D?style=for-the-badge&logo=gsap&logoColor=FFDE02" alt="gsap" />
+<img src="https://img.shields.io/badge/motion-0D0D0D?style=for-the-badge&logo=framer&logoColor=FFDE02" alt="motion" />
+<img src="https://img.shields.io/badge/Three.js-0D0D0D?style=for-the-badge&logo=threedotjs&logoColor=FFDE02" alt="threejs" />
+<img src="https://img.shields.io/badge/R3F%20%2B%20Drei-0D0D0D?style=for-the-badge&logo=react&logoColor=FFDE02" alt="r3f" />
+<img src="https://img.shields.io/badge/WebGL-0D0D0D?style=for-the-badge&logo=webgl&logoColor=FFDE02" alt="webgl" />
+<img src="https://img.shields.io/badge/WebGPU-0D0D0D?style=for-the-badge&logo=webgpu&logoColor=FFDE02" alt="webgpu" />
+<br/>
+<img src="https://img.shields.io/badge/Lenis-0D0D0D?style=for-the-badge&logoColor=FFDE02" alt="lenis" />
+<img src="https://img.shields.io/badge/Locomotive%20Scroll-0D0D0D?style=for-the-badge&logoColor=FFDE02" alt="locomotive" />
+<img src="https://img.shields.io/badge/Swapy-0D0D0D?style=for-the-badge&logoColor=FFDE02" alt="swapy" />
+<img src="https://img.shields.io/badge/Howler.js-0D0D0D?style=for-the-badge&logoColor=FFDE02" alt="howler" />
+
+**vision & AI on the web**
+
+<img src="https://img.shields.io/badge/MediaPipe-0D0D0D?style=for-the-badge&logo=mediapipe&logoColor=FFDE02" alt="mediapipe" />
+<img src="https://img.shields.io/badge/TensorFlow.js-0D0D0D?style=for-the-badge&logo=tensorflow&logoColor=FFDE02" alt="tfjs" />
+<img src="https://img.shields.io/badge/ONNX%20Runtime-0D0D0D?style=for-the-badge&logo=onnx&logoColor=FFDE02" alt="onnx" />
 
 **studio**
 
-<img src="https://skillicons.dev/icons?i=ableton&theme=dark" alt="studio" />
-
-<sub>
-Pro Tools · Ableton Live · Logic Pro · FL Studio · Cubase · Reaper · Melodyne · iZotope RX · DaVinci Resolve
-</sub>
+<img src="https://img.shields.io/badge/Pro%20Tools-0D0D0D?style=for-the-badge&logo=protools&logoColor=FFDE02" alt="protools" />
+<img src="https://img.shields.io/badge/Ableton%20Live-0D0D0D?style=for-the-badge&logoColor=FFDE02" alt="ableton" />
+<img src="https://img.shields.io/badge/Cubase-0D0D0D?style=for-the-badge&logo=steinberg&logoColor=FFDE02" alt="cubase" />
+<img src="https://img.shields.io/badge/DaVinci%20Resolve-0D0D0D?style=for-the-badge&logo=davinciresolve&logoColor=FFDE02" alt="resolve" />
+<br/>
+<img src="https://img.shields.io/badge/Logic%20Pro-0D0D0D?style=for-the-badge&logoColor=FFDE02" alt="logic" />
+<img src="https://img.shields.io/badge/FL%20Studio-0D0D0D?style=for-the-badge&logoColor=FFDE02" alt="flstudio" />
+<img src="https://img.shields.io/badge/Reaper-0D0D0D?style=for-the-badge&logoColor=FFDE02" alt="reaper" />
+<img src="https://img.shields.io/badge/Melodyne-0D0D0D?style=for-the-badge&logoColor=FFDE02" alt="melodyne" />
+<img src="https://img.shields.io/badge/iZotope%20RX-0D0D0D?style=for-the-badge&logoColor=FFDE02" alt="izotope" />
 
 <br/><br/>
 
