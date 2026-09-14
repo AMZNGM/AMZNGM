@@ -22,22 +22,25 @@
 <!-- ==================== ABOUT ==================== -->
 <!-- <img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=AMZNGM&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFDE02&icon_color=FFDE02&text_color=F6F9FA&ring_color=FFDE02&include_all_commits=true&rank_icon=github" alt="stats" /> -->
 
-### `~` whoami
+<!-- ==================== CONNECT ==================== -->
 
-```ts
-const ngm = {
-  name: "Abdulrahman NGM",
-  role: "Web XR / Web AR Engineer",
-  at: "Novagates — since 2025",
-  alsoKnownAs: "Audio Engineer · Producer · Voice-Over Artist (10+ yrs)",
-  location: "Located Somewhere on Earth",
-  stack: ["TypeScript", "Next.js", "React", "Three.js / R3F", "Tailwind"],
-  motion: ["GSAP", "motion/react", "Lenis", "Locomotive"],
-  builds: "real-time AR try-on · 3D configurators · motion-driven UI",
-};
-```
+### `~` connect
 
-<br/>
+<div align="center">
+
+<a href="https://amzngm.com"><img src="https://img.shields.io/badge/Website-0D0D0D?style=for-the-badge&logo=safari&logoColor=FFDE02" alt="website" /></a>
+<a href="mailto:contact@amzngm.com"><img src="https://img.shields.io/badge/Mail-0D0D0D?style=for-the-badge&logo=maildotru&logoColor=FFDE02" alt="mail" /></a>
+<a href="https://www.linkedin.com/in/amzngm/"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FFDE02" alt="linkedin" /></a>
+<a href="https://www.instagram.com/amzngm/"><img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=FFDE02" alt="instagram" /></a>
+<a href="https://open.spotify.com/artist/2VsF2NWvL9ZA1IT2Ubpmjn?si=GZ3NImToRNqKulzAPvfMwQ"><img src="https://img.shields.io/badge/Spotify-0D0D0D?style=for-the-badge&logo=spotify&logoColor=FFDE02" alt="spotify" /></a>
+<a href="https://wa.me/201014722872"><img src="https://img.shields.io/badge/WhatsApp-0D0D0D?style=for-the-badge&logo=whatsapp&logoColor=FFDE02" alt="whatsapp" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:FFDE02,100:0D0D0D&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
+
 
 <!-- ==================== METRICS ==================== -->
 
@@ -61,24 +64,24 @@ const ngm = {
 
 <br/>
 
-<!-- ==================== CONNECT ==================== -->
+### `~` whoami
 
-### `~` connect
+```ts
+const ngm = {
+  name: "Abdulrahman NGM",
+  role: "Web XR / Web AR Engineer",
+  at: "Novagates — since 2025",
+  alsoKnownAs: "Audio Engineer · Producer · Voice-Over Artist (10+ yrs)",
+  location: "Located Somewhere on Earth",
+  stack: ["TypeScript", "Next.js", "React", "Three.js / R3F", "Tailwind"],
+  motion: ["GSAP", "motion/react", "Lenis", "Locomotive"],
+  builds: "real-time AR try-on · 3D configurators · motion-driven UI",
+};
+```
 
-<div align="center">
+<br/>
 
-<a href="https://amzngm.com"><img src="https://img.shields.io/badge/Website-0D0D0D?style=for-the-badge&logo=safari&logoColor=FFDE02" alt="website" /></a>
-<a href="mailto:contact@amzngm.com"><img src="https://img.shields.io/badge/Mail-0D0D0D?style=for-the-badge&logo=maildotru&logoColor=FFDE02" alt="mail" /></a>
-<a href="https://www.linkedin.com/in/amzngm/"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FFDE02" alt="linkedin" /></a>
-<a href="https://www.instagram.com/amzngm/"><img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=FFDE02" alt="instagram" /></a>
-<a href="https://open.spotify.com/artist/2VsF2NWvL9ZA1IT2Ubpmjn?si=GZ3NImToRNqKulzAPvfMwQ"><img src="https://img.shields.io/badge/Spotify-0D0D0D?style=for-the-badge&logo=spotify&logoColor=FFDE02" alt="spotify" /></a>
-<a href="https://wa.me/201014722872"><img src="https://img.shields.io/badge/WhatsApp-0D0D0D?style=for-the-badge&logo=whatsapp&logoColor=FFDE02" alt="whatsapp" /></a>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:FFDE02,100:0D0D0D&height=120&section=footer" width="100%" alt="footer" />
-
-</div>
 
 <!-- ==================== CURRENT ==================== -->
 
