@@ -12,177 +12,30 @@
 <a href="https://amzngm.com"><img src="https://img.shields.io/badge/amzngm.com-FFDE02?style=for-the-badge&labelColor=0D0D0D&logo=vercel&logoColor=FFDE02" alt="portfolio" /></a>
 <a href="https://staging.novagates.com/en"><img src="https://img.shields.io/badge/Web%20XR%20Engineer%20@-Novagates-FFDE02?style=for-the-badge&labelColor=0D0D0D" alt="novagates" /></a>
 <a href="https://drive.google.com/file/d/1lDcLVwuElu9d-aNYiBtHdS6vAJE-VS_o/view?usp=sharing"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-0D0D0D?style=for-the-badge&logo=googledrive&logoColor=FFDE02" alt="resume" /></a>
-<img src="https://komarev.com/ghpvc/?username=AMZNGM&style=for-the-badge&color=FFDE02&label=VISITORS" alt="visitors" />
+
+<!-- <img src="https://komarev.com/ghpvc/?username=AMZNGM&style=for-the-badge&color=FFDE02&label=VISITORS" alt="visitors" /> -->
 
 </div>
 
 <br/>
 
 <!-- ==================== ABOUT ==================== -->
-<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=AMZNGM&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFDE02&icon_color=FFDE02&text_color=F6F9FA&ring_color=FFDE02&include_all_commits=true&rank_icon=github" alt="stats" />
+<!-- <img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=AMZNGM&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFDE02&icon_color=FFDE02&text_color=F6F9FA&ring_color=FFDE02&include_all_commits=true&rank_icon=github" alt="stats" /> -->
 
 ### `~` whoami
 
 ```ts
 const ngm = {
-  name:        "Abdulrahman NGM",
-  role:        "Web XR / Web AR Engineer",
-  at:          "Novagates — since 2025",
+  name: "Abdulrahman NGM",
+  role: "Web XR / Web AR Engineer",
+  at: "Novagates — since 2025",
   alsoKnownAs: "Audio Engineer · Producer · Voice-Over Artist (10+ yrs)",
-  location:    "Located Somewhere on Earth",
-  stack:       ["TypeScript", "Next.js", "React", "Three.js / R3F", "Tailwind"],
-  motion:      ["GSAP", "motion/react", "Lenis", "Locomotive"],
-  builds:      "real-time AR try-on · 3D configurators · motion-driven UI",
+  location: "Located Somewhere on Earth",
+  stack: ["TypeScript", "Next.js", "React", "Three.js / R3F", "Tailwind"],
+  motion: ["GSAP", "motion/react", "Lenis", "Locomotive"],
+  builds: "real-time AR try-on · 3D configurators · motion-driven UI",
 };
 ```
-
-> I build immersive web experiences — real-time AR try-on, 3D configurators, and
-> motion-driven interfaces that feel like they shouldn't run in a browser.
-
-- 🕶️ **Web XR / AR Engineer @ [Novagates](https://staging.novagates.com/en)** — I build the **AR/AI Virtual Try-On SDK**, an embeddable real-time try-on engine for beauty & accessories
-- 🎛️ **10+ years in audio** — recording, producing, mixing, mastering, sound design. Global campaigns including **Nike** (Burj Khalifa commercial)
-- 🎙️ Currently recording the *Riyad as-Salihin* and *White Nights* audiobooks
-- 🧪 Living in Three.js, shaders, GSAP timelines — and Arch + Hyprland
-- 📫 **contact@amzngm.com**
-
-<br clear="both"/>
-
-<!-- ==================== STACK ==================== -->
-
-### `~` stack
-
-<div align="center">
-
-**core**
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,threejs,html,css&theme=dark" alt="core" />
-
-**3D · services · tooling**
-
-<img src="https://skillicons.dev/icons?i=blender,figma,firebase,supabase,vercel,cloudflare,git,github&theme=dark" alt="services" />
-
-<sub>
-<b>Animation</b> GSAP · motion/react · Lenis · Locomotive Scroll · Swapy &nbsp;·&nbsp;
-<b>3D</b> Three.js · React Three Fiber · Drei &nbsp;·&nbsp;
-<b>Web audio</b> use-sound · Howler.js
-</sub>
-
-**studio**
-
-<img src="https://skillicons.dev/icons?i=ableton&theme=dark" alt="studio" />
-
-<sub>
-Pro Tools · Ableton Live · Logic Pro · FL Studio · Cubase · Reaper · Melodyne · iZotope RX · DaVinci Resolve
-</sub>
-
-</div>
-
-<br/>
-
-<!-- ==================== CURRENT ==================== -->
-
-### `~` currently building
-
-<div align="center">
-<a href="https://staging.novagates.com/en">
-<img src="https://img.shields.io/badge/%F0%9F%95%B6%EF%B8%8F%20NOVAGATES-AR%2FAI%20Virtual%20Try--On%20SDK-FFDE02?style=for-the-badge&labelColor=0D0D0D" alt="Novagates VTO SDK" />
-</a>
-</div>
-
-**The SDK itself** — an embeddable, real-time virtual try-on engine for beauty & accessories.
-A merchant drops in one `<script>` tag and gets try-on running live in their store.
-I own the **3D side**: **19 shippable try-on modules** — makeup on your lips, glasses on your
-face, jewellery, the whole madness — each isolated so it can't fight the host page's styles.
-
-<div align="center">
-
-| | |
-|---|---|
-| **Rendering** | Three.js · React Three Fiber · Drei · custom shaders |
-| **Vision / AI** | MediaPipe Vision · TensorFlow.js (WebGL + WebGPU) · ONNX Runtime Web |
-| **Voice** | Whisper transcription · real-time lip-sync |
-| **App layer** | React · Vite · Bun · Tailwind · Zustand · motion · i18n (EN/AR) |
-
-</div>
-
-<sub>Shipped as UMD bundles loaded by a tiny `<script src>` loader — the SDK has to boot fast and stay out of the merchant's way.</sub>
-
-<br/>
-
-<!-- ==================== WORK ==================== -->
-
-### `~` selected work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### ⏱️ [NGCLock](https://github.com/AMZNGM/NGCLock) &nbsp;<sub>2026</sub>
-*"Don't give more, don't take less."* A 9h **net** work-time cap that enforces with the network fully down. Desktop, mobile and web from one monorepo.
-<br/><br/>
-`Electron` · `Expo` · `React 19` · `R3F` · `Supabase`
-<br/>
-🔗 **[ngclock.amzngm.com](https://ngclock.amzngm.com)**
-
-</td>
-<td width="50%" valign="top">
-
-#### 🏛️ [DHK Remake](https://github.com/AMZNGM/dhk-remake) &nbsp;<sub>2026 · WIP</sub>
-Remake of the award-winning DHK Architects site — editorial layout, smooth transitions, image-driven storytelling.
-<br/><br/>
-`GSAP` · `next-view-transitions`
-<br/>
-🔗 **[dhk-remake.vercel.app](https://dhk-remake.vercel.app/)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🖼️ [Aymon Portfolio](https://github.com/AMZNGM/Aymon) &nbsp;<sub>2026</sub>
-Co-designed and developed. Motion, rhythm, and immersive scroll-based storytelling.
-<br/><br/>
-`R3F` · `GSAP` · `Firebase` · `Cloudinary`
-<br/>
-🔗 **[aymon.work](https://www.aymon.work/)**
-
-</td>
-<td width="50%" valign="top">
-
-#### 🏙️ [Urbnlanes](https://github.com/AMZNGM/Urbnlanes) &nbsp;<sub>2026</sub>
-Interactive brand site — dynamic layouts, smooth scrolling, gesture-based interaction.
-<br/><br/>
-`Locomotive Scroll` · `motion`
-<br/>
-🔗 **[urbnlanes.vercel.app](https://urbnlanes.vercel.app/)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🎚️ [NGM Audio Portfolio](https://github.com/AMZNGM/ngm-ae-portfolio) &nbsp;<sub>2025</sub>
-The other career. Minimal, expressive, motion-driven presentation of the audio work.
-<br/><br/>
-`Vite` · `React 19` · `GSAP`
-<br/>
-🔗 **[live](https://amzngm.github.io/ngm-ae-portfolio/)**
-
-</td>
-<td width="50%" valign="top">
-
-#### 🧭 [Jadar](https://github.com/AMZNGM/Jadar) &nbsp;<sub>2025</sub>
-Interactive web experience — dynamic UI, scroll animation, gesture interactions.
-<br/><br/>
-`GSAP` · `MapLibre GL`
-<br/>
-🔗 **[jadar.vercel.app](https://jadar.vercel.app/)**
-
-</td>
-</tr>
-</table>
-
-<div align="center"><sub>… full case studies live on <b><a href="https://amzngm.com">amzngm.com</a></b></sub></div>
 
 <br/>
 
@@ -224,5 +77,159 @@ Interactive web experience — dynamic UI, scroll animation, gesture interaction
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:FFDE02,100:0D0D0D&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
+
+<!-- ==================== CURRENT ==================== -->
+
+### `~` currently building
+
+<div align="center">
+<a href="https://staging.novagates.com/en">
+<img src="https://img.shields.io/badge/%F0%9F%95%B6%EF%B8%8F%20NOVAGATES-AR%2FAI%20Virtual%20Try--On%20SDK-FFDE02?style=for-the-badge&labelColor=0D0D0D" alt="Novagates VTO SDK" />
+</a>
+</div>
+
+**The SDK itself** — an embeddable, real-time virtual try-on engine for beauty & accessories.
+A merchant drops in one `<script>` tag and gets try-on running live in their store.
+I own the **3D side**: **19 shippable try-on modules** — makeup on your lips, glasses on your
+face, jewellery, the whole madness — each isolated so it can't fight the host page's styles.
+
+<div align="center">
+
+|                 |                                                                      |
+| --------------- | -------------------------------------------------------------------- |
+| **Rendering**   | Three.js · React Three Fiber · Drei · custom shaders                 |
+| **Vision / AI** | MediaPipe Vision · TensorFlow.js (WebGL + WebGPU) · ONNX Runtime Web |
+| **Voice**       | Whisper transcription · real-time lip-sync                           |
+| **App layer**   | React · Vite · Bun · Tailwind · Zustand · motion · i18n (EN/AR)      |
+
+</div>
+
+<sub>Shipped as UMD bundles loaded by a tiny `<script src>` loader — the SDK has to boot fast and stay out of the merchant's way.</sub>
+
+<br/>
+
+<!-- ==================== WORK ==================== -->
+
+### `~` selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### ⏱️ [NGCLock](https://github.com/AMZNGM/NGCLock) &nbsp;<sub>2026</sub>
+
+_"Don't give more, don't take less."_ A 9h **net** work-time cap that enforces with the network fully down. Desktop, mobile and web from one monorepo.
+<br/><br/>
+`Electron` · `Expo` · `React 19` · `R3F` · `Supabase`
+<br/>
+🔗 **[ngclock.amzngm.com](https://ngclock.amzngm.com)**
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏛️ [DHK Remake](https://github.com/AMZNGM/dhk-remake) &nbsp;<sub>2026 · WIP</sub>
+
+Remake of the award-winning DHK Architects site — editorial layout, smooth transitions, image-driven storytelling.
+<br/><br/>
+`GSAP` · `next-view-transitions`
+<br/>
+🔗 **[dhk-remake.vercel.app](https://dhk-remake.vercel.app/)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🖼️ [Aymon Portfolio](https://github.com/AMZNGM/Aymon) &nbsp;<sub>2026</sub>
+
+Co-designed and developed. Motion, rhythm, and immersive scroll-based storytelling.
+<br/><br/>
+`R3F` · `GSAP` · `Firebase` · `Cloudinary`
+<br/>
+🔗 **[aymon.work](https://www.aymon.work/)**
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏙️ [Urbnlanes](https://github.com/AMZNGM/Urbnlanes) &nbsp;<sub>2026</sub>
+
+Interactive brand site — dynamic layouts, smooth scrolling, gesture-based interaction.
+<br/><br/>
+`Locomotive Scroll` · `motion`
+<br/>
+🔗 **[urbnlanes.vercel.app](https://urbnlanes.vercel.app/)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎚️ [NGM Audio Portfolio](https://github.com/AMZNGM/ngm-ae-portfolio) &nbsp;<sub>2025</sub>
+
+The other career. Minimal, expressive, motion-driven presentation of the audio work.
+<br/><br/>
+`Vite` · `React 19` · `GSAP`
+<br/>
+🔗 **[live](https://amzngm.github.io/ngm-ae-portfolio/)**
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧭 [Jadar](https://github.com/AMZNGM/Jadar) &nbsp;<sub>2025</sub>
+
+Interactive web experience — dynamic UI, scroll animation, gesture interactions.
+<br/><br/>
+`GSAP` · `MapLibre GL`
+<br/>
+🔗 **[jadar.vercel.app](https://jadar.vercel.app/)**
+
+</td>
+</tr>
+</table>
+
+<div align="center"><sub>… full case studies live on <b><a href="https://amzngm.com">amzngm.com</a></b></sub></div>
+
+<br/>
+
+> I build immersive web experiences — real-time AR try-on, 3D configurators, and
+> motion-driven interfaces that feel like they shouldn't run in a browser.
+
+- 🕶️ **Web XR / AR Engineer @ [Novagates](https://staging.novagates.com/en)** — I build the **AR/AI Virtual Try-On SDK**, an embeddable real-time try-on engine for beauty & accessories
+- 🎛️ **10+ years in audio** — recording, producing, mixing, mastering, sound design. Global campaigns including **Nike** (Burj Khalifa commercial)
+- 🎙️ Currently recording the _Riyad as-Salihin_ and _White Nights_ audiobooks
+- 🧪 Living in Three.js, shaders, GSAP timelines — and Arch + Hyprland
+- 📫 **contact@amzngm.com**
+
+<br clear="both"/>
+
+<!-- ==================== STACK ==================== -->
+
+### `~` stack
+
+<div align="center">
+
+**core**
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,threejs,html,css&theme=dark" alt="core" />
+
+**3D · services · tooling**
+
+<img src="https://skillicons.dev/icons?i=blender,figma,firebase,supabase,vercel,cloudflare,git,github&theme=dark" alt="services" />
+
+<sub>
+<b>Animation</b> GSAP · motion/react · Lenis · Locomotive Scroll · Swapy &nbsp;·&nbsp;
+<b>3D</b> Three.js · React Three Fiber · Drei &nbsp;·&nbsp;
+<b>Web audio</b> use-sound · Howler.js
+</sub>
+
+**studio**
+
+<img src="https://skillicons.dev/icons?i=ableton&theme=dark" alt="studio" />
+
+<sub>
+Pro Tools · Ableton Live · Logic Pro · FL Studio · Cubase · Reaper · Melodyne · iZotope RX · DaVinci Resolve
+</sub>
 
 </div>
