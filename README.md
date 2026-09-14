@@ -35,10 +35,6 @@
 <a href="https://open.spotify.com/artist/2VsF2NWvL9ZA1IT2Ubpmjn?si=GZ3NImToRNqKulzAPvfMwQ"><img src="https://img.shields.io/badge/Spotify-0D0D0D?style=for-the-badge&logo=spotify&logoColor=FFDE02" alt="spotify" /></a>
 <a href="https://wa.me/201014722872"><img src="https://img.shields.io/badge/WhatsApp-0D0D0D?style=for-the-badge&logo=whatsapp&logoColor=FFDE02" alt="whatsapp" /></a>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:FFDE02,100:0D0D0D&height=120&section=footer" width="100%" alt="footer" />
-
 </div>
 
 <br/>
@@ -57,6 +53,15 @@ const ngm = {
   builds: "real-time AR try-on · 3D configurators · motion-driven UI",
 };
 ```
+
+> I build immersive web experiences — real-time AR try-on, 3D configurators, and
+> motion-driven interfaces that feel like they shouldn't run in a browser.
+
+- 🕶️ **Web XR / AR Engineer @ [Novagates](https://staging.novagates.com/en)** — I build the **AR/AI Virtual Try-On SDK**, an embeddable real-time try-on engine for beauty & accessories
+- 🎛️ **10+ years in audio** — recording, producing, mixing, mastering, sound design. Global campaigns including **Nike** (Burj Khalifa commercial)
+- 🎙️ Currently recording the _Riyad as-Salihin_ and _White Nights_ audiobooks
+- 🧪 Living in Three.js, shaders, GSAP timelines — and Arch + Hyprland
+- 📫 **contact@amzngm.com**
 
 <br/>
 
@@ -97,12 +102,12 @@ face, jewellery, the whole madness — each isolated so it can't fight the host 
 
 <div align="center">
 
-|                 |                                                                      |
-| --------------- | -------------------------------------------------------------------- |
-| **Rendering**   | Three.js · React Three Fiber · Drei · custom shaders                 |
-| **Vision / AI** | MediaPipe Vision · TensorFlow.js (WebGL + WebGPU) · ONNX Runtime Web |
-| **Voice**       | Whisper transcription · real-time lip-sync                           |
-| **App layer**   | React · Vite · Bun · Tailwind · Zustand · motion · i18n (EN/AR)      |
+<table>
+<tr><td><b>Rendering</b></td><td>Three.js · React Three Fiber · Drei · custom shaders</td></tr>
+<tr><td><b>Vision / AI</b></td><td>MediaPipe Vision · TensorFlow.js (WebGL + WebGPU) · ONNX Runtime Web</td></tr>
+<tr><td><b>Voice</b></td><td>Whisper transcription · real-time lip-sync</td></tr>
+<tr><td><b>App layer</b></td><td>React · Vite · Bun · Tailwind · Zustand · motion · i18n (EN/AR)</td></tr>
+</table>
 
 </div>
 
@@ -191,17 +196,6 @@ Interactive web experience — dynamic UI, scroll animation, gesture interaction
 
 <div align="center"><sub>… full case studies live on <b><a href="https://amzngm.com">amzngm.com</a></b></sub></div>
 
-<br/>
-
-> I build immersive web experiences — real-time AR try-on, 3D configurators, and
-> motion-driven interfaces that feel like they shouldn't run in a browser.
-
-- 🕶️ **Web XR / AR Engineer @ [Novagates](https://staging.novagates.com/en)** — I build the **AR/AI Virtual Try-On SDK**, an embeddable real-time try-on engine for beauty & accessories
-- 🎛️ **10+ years in audio** — recording, producing, mixing, mastering, sound design. Global campaigns including **Nike** (Burj Khalifa commercial)
-- 🎙️ Currently recording the _Riyad as-Salihin_ and _White Nights_ audiobooks
-- 🧪 Living in Three.js, shaders, GSAP timelines — and Arch + Hyprland
-- 📫 **contact@amzngm.com**
-
 <!-- ==================== STACK ==================== -->
 
 ### `~` stack
@@ -229,5 +223,9 @@ Interactive web experience — dynamic UI, scroll animation, gesture interaction
 <sub>
 Pro Tools · Ableton Live · Logic Pro · FL Studio · Cubase · Reaper · Melodyne · iZotope RX · DaVinci Resolve
 </sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:FFDE02,100:0D0D0D&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
