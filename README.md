@@ -123,7 +123,7 @@ face, jewellery, the whole madness — each isolated so it can't fight the host 
 <tr>
 <td width="50%" valign="top">
 
-#### ⏱️ [NGCLock](https://github.com/AMZNGM/NGCLock) &nbsp;<sub>2026</sub>
+#### ⏱️ [NGCLock](https://ngclock.amzngm.com) &nbsp;<sub>2026</sub>
 
 _"Don't give more, don't take less."_ A 9h **net** work-time cap that enforces with the network fully down. Desktop, mobile and web from one monorepo.
 <br/><br/>
@@ -147,7 +147,7 @@ Remake of the award-winning DHK Architects site — editorial layout, smooth tra
 <tr>
 <td width="50%" valign="top">
 
-#### 🖼️ [Aymon Portfolio](https://github.com/AMZNGM/Aymon) &nbsp;<sub>2026</sub>
+#### 🖼️ [Aymon Portfolio](https://www.aymon.work/) &nbsp;<sub>2026</sub>
 
 Co-designed and developed. Motion, rhythm, and immersive scroll-based storytelling.
 <br/><br/>
